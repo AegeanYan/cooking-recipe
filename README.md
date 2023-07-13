@@ -14,10 +14,6 @@ idea来自于[程序员做饭指南](https://github.com/Anduin2017/HowToCook)（
 
 ##### 写在最后
 
-![](https://raw.githubusercontent.com/AegeanYan/ImageBed/main/20230712181610.png)
-
-![](https://raw.githubusercontent.com/AegeanYan/ImageBed/main/20230712181716.png)
-
-<img src="https://raw.githubusercontent.com/AegeanYan/ImageBed/main/20230712181823.png" width="250px" />
+![](https://raw.githubusercontent.com/AegeanYan/ImageBed/main/20230712181610.png)![](https://raw.githubusercontent.com/AegeanYan/ImageBed/main/20230712181716.png)<img src="https://raw.githubusercontent.com/AegeanYan/ImageBed/main/20230712181823.png" width="250px" />
 
 现实里的烹饪也许没法发光，但却能用美食从周围收获感动。
