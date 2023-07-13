@@ -18,6 +18,6 @@ idea来自于[程序员做饭指南](https://github.com/Anduin2017/HowToCook)（
 
 ![](https://raw.githubusercontent.com/AegeanYan/ImageBed/main/20230712181716.png)
 
-<img src="https://raw.githubusercontent.com/AegeanYan/ImageBed/main/20230712181823.png" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/AegeanYan/ImageBed/main/20230712181823.png" style="zoom:25%;" />
 
 现实里的烹饪也许没法发光，但却能用美食从周围收获感动。
