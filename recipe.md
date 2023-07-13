@@ -1,5 +1,3 @@
-[TOC]
-
 ### 7.12 青椒牛柳
 
 复刻[小红书链接](http://xhslink.com/bmDxcs)
