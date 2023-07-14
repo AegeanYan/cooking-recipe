@@ -40,3 +40,25 @@ ok现在的问题是这是我的“处女作”，但我完全没把握它的调
 
 做饭+吃+收碗用时大约90min，还能接受，明天还能吃顿。
 
+
+
+### 7.13 黑椒牛柳
+
+复刻`指南`中的[黑椒牛柳](https://github.com/Anduin2017/HowToCook/blob/master/dishes/meat_dish/%E9%BB%91%E6%A4%92%E7%89%9B%E6%9F%B3/%E9%BB%91%E6%A4%92%E7%89%9B%E6%9F%B3.md)
+
+没有黑椒腌料：全用黑椒粉代替了
+
+没有淀粉：好像也没出问题
+
+7.12剩下牛肉约300g，取1/3个洋葱和1/3个红圆椒
+
+腌制过程我加入了黑椒粉+2勺生抽1勺老抽+1瓶盖料酒，豁楞豁楞，腌制约5min（感觉时间应该太短了。。
+
+其余步骤与指南一致
+
+<img src="https://raw.githubusercontent.com/AegeanYan/ImageBed/main/IMG_3860.JPG" width="250px" />
+
+味道比昨天好:heart: 只能说指南 and 黑胡椒yyds, 牛肉稍老，油也放的多了一点
+
+今天被导师push了，随便写点
+
